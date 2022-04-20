@@ -1,4 +1,4 @@
-## <h1>ALDIANSYAH</h1>
+# <p class="center">| ALDIANSYAH | </p>
 (Use dark theme to find my socials ;)
 
 <!-- <a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
