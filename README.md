@@ -1,5 +1,5 @@
 # <p align="center"> FULLSTACK WEB DEVELOPER  </p>
-# Hi, I'm Aldiansyah. I'm originally from Ranau, South Sumatra and now live in Madiun, East Java, Indonesia. I'm a Fullstack Web Developer.
+Hi, I'm Aldiansyah. I'm originally from Ranau, South Sumatra and now live in Madiun, East Java, Indonesia. I'm a Fullstack Web Developer.
 
 
 ### Languages and Tools:
