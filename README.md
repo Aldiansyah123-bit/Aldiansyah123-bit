@@ -1,4 +1,4 @@
-# <p align="center"> JUNIOR WEB DEVELOPER  </p>
+# <p align="center">WEB DEVELOPER  </p>
 Hi, I'm Aldiansyah. I'm originally from Ranau, South Sumatra and now live in Madiun, East Java, Indonesia.
 
 
