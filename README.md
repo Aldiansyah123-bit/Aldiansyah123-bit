@@ -10,10 +10,7 @@ Hi, I'm Aldiansyah. I'm originally from Ranau, South Sumatra and now live in Mad
 <img align="left" alt="LARAVEL" height="32px"  src="icons/laravel.png"/>
 <img align="left" alt="VUEJS" height="32px"  src="icons/vuejs.png"/>
 <img align="left" alt="NUXTJS" height="32px"  src="icons/nuxt-dot-js.png"/>
-<img align="left" alt="WORDPRESS" height="32px"  src="icons/wordpress.png"/>
-<img align="left" alt="FIGMA" height="32px"  src="icons/figma.png"/>
-<img align="left" alt="COREL" height="32px"  src="icons/corel.png"/>
-<img align="left" alt="COREL" height="32px"  src="icons/react.png"/>
+<img align="left" alt="REACTJS" height="32px"  src="icons/react.png"/>
 
 <br>
 <br>
