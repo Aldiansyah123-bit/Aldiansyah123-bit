@@ -1,5 +1,5 @@
 # <p align="center">WEB DEVELOPER  </p>
-Hi, I'm Aldiansyah. I'm originally from Ranau, South Sumatra and now live in Madiun, East Java, Indonesia.
+Experienced fullstack developer with proven solutions in e-commerce, HRIS, company profile, website, and mobile application development. Skilled in database management, clean coding with scalable and secure applications.
 
 
 ### Languages and Tools:
@@ -11,6 +11,9 @@ Hi, I'm Aldiansyah. I'm originally from Ranau, South Sumatra and now live in Mad
 <img align="left" alt="VUEJS" height="32px"  src="icons/vuejs.png"/>
 <img align="left" alt="NUXTJS" height="32px"  src="icons/nuxt-dot-js.png"/>
 <img align="left" alt="REACTJS" height="32px"  src="icons/react.png"/>
+<img align="left" alt="FLUTTER" height="32px"  src="icons/flutter.png"/>
+<img align="left" alt="JAVASCRIPT" height="32px"  src="icons/javascript.png"/>
+<img align="left" alt="MYSQL" height="32px"  src="icons/mysql.png"/>
 
 <br>
 <br>
